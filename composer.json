@@ -1,8 +1,8 @@
 {
   "name": "jakiboy/xdt-datatable-symfony",
   "type": "symfony-bundle",
-  "description": "Xdt-Datatable-Symfony",
-  "keywords": ["symfony","helpers","datatable","orm","doctrine"],
+  "description": "Xdt DatatableBundle for Symfony 4",
+  "keywords": ["symfony","datatable","orm","doctrine","helpers"],
   "homepage": "https://jakiboy.github.io/xdt/",
   "license": "MIT",
   "authors": [
