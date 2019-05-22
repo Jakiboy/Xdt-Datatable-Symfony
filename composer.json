@@ -1,0 +1,23 @@
+{
+  "name": "jakiboy/xdt-datatable-symfony",
+  "type": "library",
+  "description": "Xdt-Datatable-Symfony",
+  "keywords": ["symfony","helpers","datatable","orm","doctrine"],
+  "homepage": "https://jakiboy.github.io/xdt/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jihad Sinnaour",
+      "email": "mail@jihadsinnaour.com",
+      "role": "Founder"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4" : {
+      "App\\Xdt\\DatatableBundle\\" : "src/"
+    }
+  }
+}
