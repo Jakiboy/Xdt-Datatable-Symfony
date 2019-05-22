@@ -5,7 +5,7 @@
  * @license : MIT
  */
 
-namespace App\Xdt\DatatableBundle;
+namespace Xdt\DatatableBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 use Symfony\Component\PropertyAccess\PropertyAccess;
