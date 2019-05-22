@@ -2,7 +2,7 @@
 /**
  * Xdt DatatableBundle for Symfony 4
  * @author : Jihad Sinnaour
- * @license : The Symfony Licence
+ * @license : MIT
  */
 
 namespace App\Xdt\DatatableBundle;
